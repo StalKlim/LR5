@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LR5", "LR5\LR5.csproj", "{0E23210A-420E-4FAD-AD6A-95B04162C521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LR5.Tests", "LR5_Tests\LR5.Tests.csproj", "{71A26A9A-5392-44AF-A76C-9B05F0800F9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E23210A-420E-4FAD-AD6A-95B04162C521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E23210A-420E-4FAD-AD6A-95B04162C521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E23210A-420E-4FAD-AD6A-95B04162C521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E23210A-420E-4FAD-AD6A-95B04162C521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71A26A9A-5392-44AF-A76C-9B05F0800F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A26A9A-5392-44AF-A76C-9B05F0800F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71A26A9A-5392-44AF-A76C-9B05F0800F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71A26A9A-5392-44AF-A76C-9B05F0800F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB0965DA-C657-4BF2-B9A2-3FA44B6D8C1B}
+	EndGlobalSection
+EndGlobal
